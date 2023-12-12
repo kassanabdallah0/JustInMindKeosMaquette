@@ -1,0 +1,95 @@
+@font-face {
+  font-family: "OpenSans-Semibold_wgt600";
+  src: url("../fonts/OpenSans-Semibold.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/OpenSans-Semibold.ttf")  format("truetype");
+   font-weight : 600;
+ 
+}
+@font-face {
+  font-family: "OpenSans-Bold_wgt700";
+  src: url("../fonts/OpenSans-Bold.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/OpenSans-Bold.ttf")  format("truetype");
+   font-weight : 700;
+ 
+}
+@font-face {
+  font-family: "OpenSans-Light_wgt300";
+  src: url("../fonts/OpenSans-Light.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/OpenSans-Light.ttf")  format("truetype");
+   font-weight : 300;
+ 
+}
+@font-face {
+  font-family: "OpenSans-Regular_wgt400";
+  src: url("../fonts/OpenSans-Regular.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/OpenSans-Regular.ttf")  format("truetype");
+   font-weight : 400;
+ 
+}
+@font-face {
+  font-family: "Franklin Gothic Demi";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Franklin_Gothic_Demi-Demi.ttf")  format("truetype"),
+       url("../fonts/Franklin_Gothic_Demi-Demi.otf") format("opentype");
+ 
+   
+     font-style : normal;
+}
+@font-face {
+  font-family: "Franklin Gothic Demi Cond";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Franklin_Gothic_Demi_Cond-Cond_Demi.ttf")  format("truetype"),
+       url("../fonts/Franklin_Gothic_Demi_Cond-Cond_Demi.otf") format("opentype");
+ 
+   
+     font-style : normal;
+}
+@font-face {
+  font-family: "Berlin Sans FB Demi";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Berlin_Sans_FB_Demi-Demi_Bold.ttf")  format("truetype"),
+       url("../fonts/Berlin_Sans_FB_Demi-Demi_Bold.otf") format("opentype");
+   font-weight : 700;
+ 
+   
+     font-style : normal;
+}
+@font-face {
+  font-family: "MS Outlook";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/MS_Outlook-Regular.ttf")  format("truetype"),
+       url("../fonts/MS_Outlook-Regular.otf") format("opentype");
+   font-weight : 400;
+ 
+   
+     font-style : normal;
+}
+@font-face {
+  font-family: "MS Reference Sans Serif";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/MS_Reference_Sans_Serif-Regular.ttf")  format("truetype"),
+       url("../fonts/MS_Reference_Sans_Serif-Regular.otf") format("opentype");
+   font-weight : 400;
+ 
+   
+     font-style : normal;
+}
+@font-face {
+  font-family: "Lucida Fax";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Lucida_Fax-Regular.ttf")  format("truetype"),
+       url("../fonts/Lucida_Fax-Regular.otf") format("opentype");
+   font-weight : 400;
+ 
+   
+     font-style : normal;
+}
+@font-face {
+  font-family: "Lucida Sans";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Lucida_Sans-Demibold_Roman.ttf")  format("truetype"),
+       url("../fonts/Lucida_Sans-Demibold_Roman.otf") format("opentype");
+ 
+   
+     font-style : normal;
+}

@@ -1,0 +1,104 @@
+#s-e0bcffe7-e78c-466a-b4a1-6bee281fcb2a > #backgroundBox {
+  position: absolute;
+}
+#s-e0bcffe7-e78c-466a-b4a1-6bee281fcb2a > #alignmentBox {
+  position: relative;
+}
+#s-e0bcffe7-e78c-466a-b4a1-6bee281fcb2a #s-Image_1 {
+  position: absolute;
+  width: 959.0px;
+  height: 525.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+#s-e0bcffe7-e78c-466a-b4a1-6bee281fcb2a #s-Button_1 {
+  position: absolute;
+  width: 115.0px;
+  min-height: 40.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  cursor: pointer;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+  font-size: 0pt;
+  font-family: 'OpenSans-Bold_wgt700',Arial;
+}
+#s-e0bcffe7-e78c-466a-b4a1-6bee281fcb2a #s-Button_1 > .backgroundLayer {
+  border-top-left-radius: 6.0px;
+  border-top-right-radius: 6.0px;
+  border-bottom-right-radius: 6.0px;
+  border-bottom-left-radius: 6.0px;
+}
+#s-e0bcffe7-e78c-466a-b4a1-6bee281fcb2a #s-Button_1 > .backgroundLayer > .colorLayer {
+  background-color: transparent;
+  background-image: linear-gradient(90.0deg, #D9D9D9 0.001%, #CCCCCC 99.40893365525115%);
+}
+#s-e0bcffe7-e78c-466a-b4a1-6bee281fcb2a #s-Button_1 > .borderLayer {
+  border-top-width: 2.0px;
+  border-top-style: solid;
+  border-top-color: #000000;
+  border-right-width: 2.0px;
+  border-right-style: solid;
+  border-right-color: #000000;
+  border-bottom-width: 2.0px;
+  border-bottom-style: solid;
+  border-bottom-color: #000000;
+  border-left-width: 2.0px;
+  border-left-style: solid;
+  border-left-color: #000000;
+  border-top-left-radius: 6.0px;
+  border-top-right-radius: 6.0px;
+  border-bottom-right-radius: 6.0px;
+  border-bottom-left-radius: 6.0px;
+}
+#s-e0bcffe7-e78c-466a-b4a1-6bee281fcb2a #s-Button_1 > .backgroundLayer {
+  border-top-left-radius: 6.0px;
+  border-top-right-radius: 6.0px;
+  border-bottom-right-radius: 6.0px;
+  border-bottom-left-radius: 6.0px;
+}
+#s-e0bcffe7-e78c-466a-b4a1-6bee281fcb2a #s-Button_1 .paddingLayer {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+#s-e0bcffe7-e78c-466a-b4a1-6bee281fcb2a #s-Button_1 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-e0bcffe7-e78c-466a-b4a1-6bee281fcb2a #s-Button_1 span {
+  color: #000000;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'OpenSans-Bold_wgt700',Arial;
+  font-size: 11.25pt;
+}
+#s-e0bcffe7-e78c-466a-b4a1-6bee281fcb2a #s-Button_1 span#rtr-s-Button_1_0 {
+  color: #000000;
+  text-decoration: none;
+  font-family: 'OpenSans-Bold_wgt700',Arial;
+  font-size: 11.25pt;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-e0bcffe7-e78c-466a-b4a1-6bee281fcb2a > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
